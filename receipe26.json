@@ -1,0 +1,63 @@
+{
+    "carbohydrate": 275.68,
+    "cookTime": "PT30M",
+    "description": "Bean & Sausage Hotpot",
+    "difficulty": 1,
+    "energy": 2333.5,
+    "id": 26,
+    "image": "img/receipe26.jpg",
+    "ingredients": [
+        {
+            "id": 14,
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 25,
+            "unit": "g"
+        },
+        {
+            "id": 142,
+            "quantity": 15,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Dans une grande casserole, faire frire les saucisses jusqu'à ce qu'elles soient dorées de tous les côtés – environ 10 minutes.",
+        "Ajouter la sauce tomate en remuant bien, puis incorporer les haricots, la mélasse ou le sucre et la moutarde.",
+        "Porter à ébullition, couvrir et cuire 30 min.",
+        "Excellent servi avec du pain croustillant ou du riz."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Saumon",
+        "Japon",
+        " Terryiaki",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 71.7,
+    "name": "Bean & Sausage Hotpot",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 150.36,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT40M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "casserole"
+    ],
+    "yield": "4 Personne"
+}

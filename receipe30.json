@@ -1,0 +1,85 @@
+{
+    "carbohydrate": 37.52,
+    "cookTime": "PT30M",
+    "description": "Pancakes",
+    "difficulty": 1,
+    "energy": 909.16,
+    "id": 30,
+    "image": "img/receipe30.jpg",
+    "ingredients": [
+        {
+            "id": 120,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 112,
+            "unit": "g"
+        },
+        {
+            "id": 10,
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 125,
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "id": 61,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 62,
+            "quantity": 50,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Mettez la farine, les œufs, le lait, 1 cuillère à soupe d'huile et une pincée de sel dans un bol ou un grand pichet, puis fouettez pour obtenir une pâte lisse.",
+        "Laissez reposer 30 minutes si vous avez le temps ou commencez à cuisiner tout de suite.",
+        "Faites chauffer une poêle moyenne ou une poêle à crêpes sur feu moyen et essuyez-la soigneusement avec du papier absorbant huilé.",
+        "Lorsqu'elles sont chaudes, faites cuire vos crêpes 1 min de chaque côté jusqu'à ce qu'elles soient dorées, en les gardant au chaud à four doux au fur et à mesure.",
+        "Servir avec des quartiers de citron et du sucre, ou votre garniture préférée.",
+        "Une fois froides, vous pouvez superposer les crêpes entre du papier sulfurisé, puis les envelopper dans du film alimentaire et les congeler jusqu'à 2 mois."
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": true,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Pancakes",
+        "Myrtille",
+        " Framboise",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 55.01,
+    "name": "Pancakes",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 48.93,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT30M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "1 Personne"
+}

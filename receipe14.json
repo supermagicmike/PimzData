@@ -1,0 +1,77 @@
+{
+    "carbohydrate": "96.68",
+    "cookTime": "PT30M",
+    "description": "Toad In The Hole",
+    "difficulty": 1,
+    "energy": 1297.01,
+    "id": 14,
+    "image": "img/receipe14.jpg",
+    "ingredients": [
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 14,
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "id": 120,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 112,
+            "unit": "g"
+        },
+        {
+            "id": 10,
+            "quantity": 225,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 200,
+            "unit": "g"
+        }
+
+
+    ],
+    "instructions": [
+        "Préchauffer le four à 200°C/chaleur 180°C/gaz 6.","faire revenir les saucisses dans une poêle antiadhésive jusqu'à ce qu'elles soient dorées.","Verser de l'huile végétale dans un plat à rôtir de 30 cm x 25 cm x 6 cm de profondeur et faire chauffer au four pendant 5 minutes.","Mettre la farine nature dans un bol, casser les œufs fermiers moyens, puis incorporer le raifort râpé.","Incorporer progressivement le lait demi-écrémé.","Saison.","Mettez les saucisses dans la rôtissoire chaude et versez sur la pâte.","Garnir de tomates cerises sur la vigne et cuire pendant 30 minutes jusqu'à ce qu'elles soient gonflées et dorées."
+    ],
+    "is_egg": false,
+    "is_fish": true,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Toad in the hole",
+        "Chicken Sausage",
+        " gratin",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 44.55,
+    "name": "Toad in the hole",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 130.31,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT40M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "2 Personne"
+}

@@ -1,0 +1,95 @@
+{
+    "carbohydrate": "39.82",
+    "cookTime": "PT15M",
+    "description": "Laksa",
+    "difficulty": 1,
+    "energy": 469.2,
+    "id": 5,
+    "image": "img/receipe12.jpg",
+    "ingredients": [
+        {
+            "id": 116,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 138,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 114,
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "id": 156,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 162,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 163,
+            "quantity": 25,
+            "unit": "g"
+        },
+        {
+            "id": 145,
+            "quantity": 80,
+            "unit": "g"
+        },
+        {
+            "id": 157,
+            "quantity": 25,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Mélanger tous les ingrédients du glaçage teriyaki au miel.",
+        "Fouetter pour bien mélanger.",
+        "Faire chauffer une poêle à feu moyen-doux.",
+        "Ajouter l'huile, Poêler le saumon des deux côtés jusqu'à ce qu'il soit complètement cuit à l'intérieur et que le glaçage s'épaississe.",
+        "Garnir de sésame et servir aussitôt."
+    ],
+    "is_egg": false,
+    "is_fish": true,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Laksa",
+        "Malaysia",
+        " Crevettes",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 25.53,
+    "name": "Laksa",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 21.51,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT35M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "1 Personne"
+}

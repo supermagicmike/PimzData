@@ -1,0 +1,83 @@
+{
+    "carbohydrate": "346.68",
+    "cookTime": "PT55M",
+    "description": "Gateau au chocolat",
+    "difficulty": 1,
+    "energy": 3839.8,
+    "id": 6,
+    "image": "img/receipe6.jpg",
+    "ingredients": [
+        {
+            "id": 127,
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "id": 11,
+            "quantity": 175,
+            "unit": "g"
+        },
+        {
+            "id": 10,
+            "quantity": 40,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 280,
+            "unit": "g"
+        },
+        {
+            "id": 120,
+            "quantity": 125,
+            "unit": "g"
+        },
+        {
+            "id": 125,
+            "quantity": 175,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Préchauffer le four à 180°C/350°F/thermostat 4.",
+"Graisser et tapisser le fond d'un moule à manqué rond de 8 pouces de papier sulfurisé. Cassez le chocolat dans un bol résistant à la chaleur et placez-le sur une casserole d'eau frémissante et remuez jusqu'à ce qu'il fonde.",
+"(ou faire fondre au micro-ondes pendant 2-3 minutes en remuant de temps en temps) Placer le beurre et le sucre dans un bol à mélanger et la crème avec une cuillère en bois jusqu'à consistance légère et mousseuse.",
+"Incorporer progressivement les œufs en ajoutant un peu de farine si le mélange commence à cailler.",
+"Incorporer le reste de farine avec le chocolat fondu et refroidi et le lait.",
+"Mélanger jusqu'à consistance lisse.",
+"Étaler le mélange dans le moule à gâteau et cuire au four pendant 50-55 minutes ou jusqu'à ce qu'il soit ferme au centre et qu'un cure-dent en ressorte proprement.",
+"Laisser refroidir 10 minutes, puis démouler et refroidir complètement."
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Chocolate",
+        "Cake",
+        " Gateau",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 302.44,
+    "name": "Gateau au chocolat",
+    "prepTime": "PT15M",
+    "price": 1,
+    "protein": 87.51,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT110M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "4 Personnes"
+}

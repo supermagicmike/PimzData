@@ -1,0 +1,80 @@
+{
+    "carbohydrate": 14.79,
+    "cookTime": "PT30M",
+    "description": "Tarte à la cerise",
+    "difficulty": 1,
+    "energy": 1507,
+    "id": 2,
+    "image": "img/receipe1.png",
+    "ingredients": [
+        {
+            "id": 110,
+            "quantity": 5,
+            "unit": "g"
+        },
+        {
+            "id": 125,
+            "quantity": 80,
+            "unit": "g"
+        },
+        {
+            "id": 124,
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "id": 123,
+            "quantity": 220,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 112,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Préchauffez votre four 10 min à 200°C",
+        "Etaler la pâte feuilleté sur un plat et la piquer avec une fourchette",
+        "Dénoyauter les cerises et déposer les délicatement sur la pâte, réservez",
+        "Ajouter dans un saladier le sucre et la vanille, les deux oeufs et battre au fouet",
+        "Verser le mélange sur le plat au dessus des cerises",
+        "Déposer votre préparation au four pendant 30 min à 200°C pour un four traditionnel ou 180°C à chaleur tournante"
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Tarte à la cerise",
+        " ",
+        " cerise",
+        " tarte",
+        " été",
+        " douceur",
+        " bon",
+        " diet",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 19.57,
+    "name": "Tarte à la cerise",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 20.33,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT40M",
+    "utensils": [
+        "plat",
+        "four",
+        "fouet"
+    ],
+    "yield": "4 Personnes"
+}

@@ -1,0 +1,107 @@
+{
+    "carbohydrate": "153.92",
+    "cookTime": "PT10M",
+    "description": "Massaman Beef Curry",
+    "difficulty": 1,
+    "energy": 2318.93,
+    "id": 17,
+    "image": "img/receipe17.jpg",
+    "ingredients": [
+        {
+            "id": 28,
+            "quantity": 85,
+            "unit": "g"
+        },
+        {
+            "id": 114,
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "id": 155,
+            "quantity": 20,
+            "unit": "g"
+        },
+        {
+            "id": 29,
+            "quantity": 600,
+            "unit": "g"
+        },
+        {
+            "id": 107,
+            "quantity": 450,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 163,
+            "quantity": 80,
+            "unit": "g"
+        },
+        {
+            "id": 52,
+            "quantity": 4,
+            "unit": "g"
+        },
+        {
+            "id": 125,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 156,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 116,
+            "quantity": 10,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Chauffer le four à 200C/180C chaleur tournante/gaz 6, puis faire griller les cacahuètes sur une plaque à pâtisserie pendant 5 minutes jusqu'à ce qu'elles soient dorées.",
+        "Une fois assez froid pour être manipulé, hachez grossièrement.",
+        "Réduire le four à 180C/160C chaleur tournante/gaz 4.",
+        "Faites chauffer 2 cuillères à soupe de crème de coco dans une grande cocotte avec un couvercle.",
+        "Ajouter la pâte de curry et faire frire pendant 1 min, puis incorporer le bœuf et faire frire jusqu'à ce qu'il soit bien enrobé et scellé.",
+        "Incorporer le reste de la noix de coco avec une demi-boîte d'eau, les pommes de terre, l'oignon, les feuilles de citron vert, la cannelle, le tamarin, le sucre, la sauce de poisson et la plupart des cacahuètes.",
+        "Porter à ébullition, puis couvrir et cuire 2h au four jusqu'à ce que le bœuf soit tendre.",
+        "Saupoudrer de piment tranché et du reste des cacahuètes, puis servir directement du plat avec du riz au jasmin."
+    ],
+    "is_egg": false,
+    "is_fish": true,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Massaman Beef Curry",
+        "Boeuf ",
+        " Curry",
+        "Indien",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 92.7,
+    "name": "Massaman Beef Curry",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 221.81,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT30M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "1 Personne"
+}

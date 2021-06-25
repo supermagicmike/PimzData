@@ -1,0 +1,88 @@
+{
+    "carbohydrate": "2079.65",
+    "cookTime": "PT15M",
+    "description": "Fettucine alfredo",
+    "difficulty": 1,
+    "energy": 2079.65,
+    "id": 23,
+    "image": "img/receipe23.jpg",
+    "ingredients": [
+        {
+            "id": 159,
+            "quantity": 227,
+            "unit": "g"
+        },
+        {
+            "id": 11,
+            "quantity": 25,
+            "unit": "g"
+        },
+        {
+            "id": 117,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 133,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 161,
+            "quantity": 8,
+            "unit": "g"
+        },
+        {
+            "id": 128,
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "id": 78,
+            "quantity": 15,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Dans une casserole moyenne, mélanger la crème caillée, le beurre et la maïzena à feu doux et porter à petit frémissement.",
+        "Éteindre le feu et garder au chaud.",
+        "Pendant ce temps, mettez le fromage et la muscade dans un petit bol et ajoutez un bon broyage de poivre noir, puis mélangez le tout (n'ajoutez pas de sel à ce stade).",
+        "Mettez les pâtes dans une autre casserole avec 2 cuillères à café de sel, versez de l'eau bouillante et faites cuire en suivant les instructions du paquet (généralement 3-4 minutes).",
+        "Une fois la cuisson terminée, versez une partie de l'eau de cuisson dans un pichet ou une tasse résistant à la chaleur et égouttez les pâtes, mais pas trop complètement.",
+        "Ajouter les pâtes dans la poêle avec le mélange de crème caillée, puis saupoudrer sur le fromage et mélanger délicatement le tout à feu doux à l'aide d'une spatule en caoutchouc.",
+        "Une fois combinés, ajoutez 3 cuillères à soupe d'eau de cuisson.",
+        "Au début, les pâtes auront l'air humides et bâclées : continuez à remuer jusqu'à ce que l'eau soit absorbée et que la sauce soit brillante.",
+        "Vérifiez l'assaisonnement avant de transférer dans des bols chauffés.",
+        "Saupoudrez de ciboulette ou de persil, puis servez aussitôt."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Fettucine alfredo",
+        "Italie",
+        " Pate",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 55.01,
+    "name": "Fettucine alfredo",
+    "prepTime": "PT5M",
+    "price": 1,
+    "protein": 48.93,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "Casserolle"
+    ],
+    "yield": "2 Personnes"
+}

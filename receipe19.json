@@ -1,0 +1,91 @@
+{
+    "carbohydrate": "122.68",
+    "cookTime": "PT20M",
+    "description": "Chicken Karaage",
+    "difficulty": 1,
+    "energy": 765.3,
+    "id": 19,
+    "image": "img/receipe19.jpg",
+    "ingredients": [
+        {
+            "id": 14,
+            "quantity": 450,
+            "unit": "g"
+        },
+        {
+            "id": 105,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 106,
+            "quantity": 9,
+            "unit": "g"
+        },
+        {
+            "id": 121,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 122,
+            "quantity": 8,
+            "unit": "g"
+        },
+        {
+            "id": 125,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 154,
+            "quantity": 125,
+            "unit": "g"
+        },
+        {
+            "id": 2,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 108,
+            "quantity": 20,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Ajouter le gingembre, l'ail, la sauce soja, le saké et le sucre dans un bol et fouetter pour combiner.","Ajouter le poulet, puis remuer pour enrober uniformément.","Couvrir et réfrigérer au moins 1 heure.","Ajouter 1 pouce d'huile végétale dans une casserole à fond épais et chauffer jusqu'à ce que l'huile atteigne 360 ​​degrés F.","Recouvrez une grille de 2 feuilles de papier absorbant et sortez vos pinces.","Mettez la fécule de pomme de terre dans un bol. Ajoutez une poignée de poulet à la fécule de pomme de terre et mélangez pour bien enrober chaque morceau.","Faites frire le karaage par lots jusqu'à ce que l'extérieur soit brun moyen et que le poulet soit bien cuit.","Transférer le poulet frit sur la grille tapissée d'essuie-tout.","Si vous voulez que le karaage reste croustillant plus longtemps, vous pouvez faire frire le poulet une deuxième fois, jusqu'à ce qu'il prenne une couleur plus foncée après avoir refroidi une fois.","Servir avec des quartiers de citron."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Poulet",
+        "Karaage",
+        " Malaysie",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 29.62,
+    "name": "Chicken Karaage",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 147.24,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT30M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "1 Personne"
+}

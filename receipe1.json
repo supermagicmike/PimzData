@@ -1,0 +1,79 @@
+{
+    "carbohydrate": 14.79,
+    "cookTime": "PT5M",
+    "description": "Salade d'été aux chevre chaud, tomates",
+    "difficulty": 1,
+    "energy": -1,
+    "id": 1,
+    "image": "img/receipe1.png",
+    "ingredients": [
+        {
+            "id": 55,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 4,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 23,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 66,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 10,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Commencer par laver la salade et les tomates les mettre sur une assiete. Bien les essorer au préalable.",
+        "Découper de votre fromage de chèvre, trempez le dans de l'oeuf battu puis rouler le dans la chapelure",
+        "faire dorer vos croustillant au chèvre pendant 5min à feu moyen",
+        "Disposer votre chevre chaud sur l'assiète contenant la salade et les tomates",
+        "Assaissonez à votre guise"
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Salade de chèvre chaud",
+        " ",
+        " salade mélangée",
+        " tomate",
+        " laitue",
+        " chevre",
+        " chaud",
+        " diet",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 19.57,
+    "name": "Salade d'été aux chevre chaud",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 20.33,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "planche à découper",
+        "couteau"
+    ],
+    "yield": "1 Personne"
+}

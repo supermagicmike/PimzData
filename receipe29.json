@@ -1,0 +1,88 @@
+{
+    "carbohydrate": 75.51,
+    "cookTime": "PT10M",
+    "description": "Mousse Choco avocat",
+    "difficulty": 1,
+    "energy": 683.61,
+    "id": 29,
+    "image": "img/receipe29.jpg",
+    "ingredients": [
+        {
+            "id": 127,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 30,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 31,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 48,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 108,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 110,
+            "quantity": 7,
+            "unit": "g"
+        },
+        {
+            "id": 97,
+            "quantity": 2,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "1.",
+        "Mélanger tous les ingrédients de la mousse ensemble dans votre robot culinaire jusqu'à consistance lisse.",
+        "Ajoutez d'abord la poudre de cacao et, au fur et à mesure que vous mélangez, ayez tous les ingrédients à portée de main afin d'ajuster légèrement les proportions car la taille des avocats et des bananes varie beaucoup.",
+        "Le rapport parfait afin d'éviter que le plat ne goûte trop de l'un ou l'autre est d'utiliser des quantités égales des deux.",
+        "2.",
+        "Goûtez et ajoutez quelques gouttes de stévia si vous sentez que vous avez besoin de plus de douceur.",
+        "3.",
+        "Remplir des petites tasses ou des verres à shot de mousse, saupoudrer de cacao en poudre ou de graines de grué et servir.",
+        "Astuce Si vous n'avez pas de banane congelée à portée de main, vous pouvez simplement en utiliser une normale, puis refroidir la mousse avant de servir pour un dessert rafraîchissant."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": true,
+    "is_vegetarian": true,
+    "keywords": [
+        "Chocolate avocado",
+        "Avocat",
+        " Chocolat",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 41.35,
+    "name": "Honey Teriyaki Salmon",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 11.01,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "1 Personne"
+}

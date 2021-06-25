@@ -1,0 +1,112 @@
+{
+    "carbohydrate": "99.48",
+    "cookTime": "PT20M",
+    "description": "Chicken Fajita Mac and Cheese",
+    "difficulty": 1,
+    "energy": 1351.94,
+    "id": 13,
+    "image": "img/receipe13.jpg",
+    "ingredients": [
+        {
+            "id": 128,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 138,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 131,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 116,
+            "quantity": 5,
+            "unit": "g"
+        },
+        {
+            "id": 97,
+            "quantity": 2,
+            "unit": "g"
+        },
+        {
+            "id": 14,
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 113,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 106,
+            "quantity": 18,
+            "unit": "g"
+        },
+        {
+            "id": 132,
+            "quantity": 25,
+            "unit": "g"
+        },
+        {
+            "id": 78,
+            "quantity": 30,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Faites revenir l'oignon, les poivrons et l'ail dans l'huile d'olive jusqu'à ce qu'ils soient bien translucides.",
+        "Faites un puits dans vos légumes et ajoutez votre poulet.",
+        "Ajoutez votre assaisonnement et salez.",
+        "Laisser légèrement colorer.",
+        "Ajoutez votre crème, votre bouillon et vos macaronis.",
+        "Cuire à feu doux pendant 20 minutes.",
+        "Ajoutez vos fromages, mélangez.",
+        "Garnir de poivrons grillés et de persil."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Chicken Fajita",
+        "Macaroni",
+        " Mac and cheese",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 50.34,
+    "name": "Chicken Fajita Mac and Cheese",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 126.8,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT30M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "casserolle"
+    ],
+    "yield": "4 Personne"
+}

@@ -1,0 +1,106 @@
+{
+    "carbohydrate": 190.17,
+    "cookTime": "PT20M",
+    "description": "Crock Pot Chicken Baked Tacos",
+    "difficulty": 1,
+    "energy": 765.3,
+    "id": 18,
+    "image": "img/receipe18.jpg",
+    "ingredients": [
+        {
+            "id": 14,
+            "quantity": 450,
+            "unit": "g"
+        },
+        {
+            "id": 134,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 149,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 116,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 106,
+            "quantity": 9,
+            "unit": "g"
+        },
+        {
+            "id": 25,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 117,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 132,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 30,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 10,
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "id": 159,
+            "quantity": 100,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Mettez les poitrines de poulet non cuites dans la mijoteuse.","Verser la bouteille pleine de vinaigrette sur le poulet.","Saupoudrer le reste des ingrédients sur le dessus et les mélanger un peu avec une cuillère.","Couvrez votre mijoteuse avec le couvercle et faites cuire à puissance élevée pendant 4 heures.","Retirer toutes les poitrines de poulet de la mijoteuse et laisser refroidir.","Râpez les poitrines de poulet et mettez-les dans un bol en verre.","Verser la majeure partie du liquide sur le poulet effiloché.","POUR LES TACOS : Préparez la sauce guacamole en mélangeant l'avocat et la salsa verte.","Verser le mélange de guacamole à travers une passoire jusqu'à consistance lisse et transférer dans un flacon souple.","Coupez l'embout du couvercle du flacon compressible pour élargir l'ouverture si nécessaire.","Préparez la sauce à la crème sure en mélangeant la crème sure et le lait jusqu'à ce que vous obteniez une sauce à la crème sure plus liquide.","Transférer dans un flacon compressible.","Dans un plat de cuisson en verre de 9 x 13, remplissez les 12+ tacos d'une couche de haricots frits, de poulet cuit et de fromage râpé.","Cuire au four à 450 pendant 10-15 minutes jusqu'à ce que le fromage soit fondu et bouillonne.","À la sortie du four, garnir tous les tacos des tomates aux raisins tranchées, du jalapeño et de la coriandre.","Terminez par un filet de guacamole et de crème sure.","Prendre plaisir!"
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Crock Pot Chicken Baked Tacos",
+        "tacos",
+        " chicken",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 98.75,
+    "name": "Crock Pot Chicken Baked Tacos",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 203.32,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT40M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "four"
+    ],
+    "yield": "4 Personne"
+}

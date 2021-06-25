@@ -1,0 +1,103 @@
+{
+    "carbohydrate": "30.68",
+    "cookTime": "PT15M",
+    "description": "Beef stroganoff",
+    "difficulty": 1,
+    "energy": 1609.62,
+    "id": 22,
+    "image": "img/receipe22.jpg",
+    "ingredients": [
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 106,
+            "quantity": 9,
+            "unit": "g"
+        },
+        {
+            "id": 11,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 164,
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "id": 29,
+            "quantity": 500,
+            "unit": "g"
+        },
+        {
+            "id": 159,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 142,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 78,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 120,
+            "quantity": 8,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Faites chauffer l'huile d'olive dans une poêle antiadhésive puis ajoutez l'oignon émincé et faites cuire à feu moyen jusqu'à ce qu'il soit complètement ramolli, soit environ 15 minutes, en ajoutant un peu d'eau s'ils commencent à coller.",
+        "Écraser l'ail et cuire encore 2-3 minutes, puis ajouter le beurre.",
+        "Une fois que le beurre mousse un peu, ajouter les champignons et cuire environ 5 minutes jusqu'à ce qu'ils ramollissent complètement.",
+        "Bien assaisonner le tout, puis verser dans une assiette.",
+        "Versez la farine dans un bol avec une grosse pincée de sel et de poivre, puis mélangez le steak dans la farine assaisonnée.",
+        "Ajoutez les morceaux de steak dans la poêle, en arrosant d'un peu d'huile si la poêle semble particulièrement sèche, et faites frire pendant 3-4 minutes, jusqu'à ce qu'ils soient bien colorés.",
+        "Remettez les oignons et les champignons dans la poêle.",
+        "Fouetter ensemble la crème fraîche, la moutarde et le bouillon de bœuf, puis verser dans la poêle.",
+        "Cuire à feu moyen environ 5 min.",
+        "Parsemez de persil, puis servez avec des pappardelles ou du riz."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Boeuf",
+        "stroganoff",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 88.8,
+    "name": "Beef stroganoff",
+    "prepTime": "PT5M",
+    "price": 1,
+    "protein": 168.85,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "Casserole"
+    ],
+    "yield": "1 Personne"
+}

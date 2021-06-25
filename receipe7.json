@@ -1,0 +1,101 @@
+{
+    "carbohydrate": "281.26",
+    "cookTime": "PT12M",
+    "description": "Salade de pâtes méditerranéenne",
+    "difficulty": 1,
+    "energy": 2510.22,
+    "id": 7,
+    "image": "img/receipe7.jpg",
+    "ingredients": [
+        {
+            "id": 83,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "id": 128,
+            "quantity": 350,
+            "unit": "g"
+        },
+        {
+            "id": 81,
+            "quantity": 20,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 130,
+            "quantity": 40,
+            "unit": "g"
+        },
+        {
+            "id": 3,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 97,
+            "quantity": 2,
+            "unit": "g"
+        },
+        {
+            "id": 46,
+            "quantity": 2,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Porter une grande casserole d'eau salée à ébullition Ajouter les pâtes, remuer une fois et cuire environ 10 minutes ou comme indiqué sur le paquet.",
+"Pendant ce temps, lavez les tomates et coupez-les en quartiers.",
+"Trancher les olives.",
+"Lavez le basilic.",
+"Mettez les tomates dans un saladier et déchirez les feuilles de basilic dessus.",
+"Ajouter une cuillère à soupe d'huile d'olive et mélanger.",
+"Lorsque les pâtes sont prêtes, égouttez-les dans une passoire et faites couler de l'eau froide dessus pour les refroidir rapidement.",
+"Mélanger les pâtes dans le saladier avec les tomates et le basilic.",
+"Ajouter les olives tranchées, les boules de mozzarella égouttées et les morceaux de thon.",
+"Bien mélanger et laisser reposer la salade au moins une demi-heure pour permettre aux saveurs de se mélanger.",
+"Saupoudrer les pâtes d'une généreuse mouture de poivre noir et arroser du reste d'huile d'olive juste avant de servir."
+    ],
+    "is_egg": false,
+    "is_fish": true,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Thon",
+        "Italie",
+        " Pates",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 88.1,
+    "name": "Salade de pâtes méditerranéenne",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 146.41,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT30M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "1 Personne"
+}

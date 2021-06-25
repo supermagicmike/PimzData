@@ -1,0 +1,71 @@
+{
+    "carbohydrate": 34.37 ,
+    "cookTime": "PT10M",
+    "description": "Soup brocoli fromage",
+    "difficulty": 1,
+    "energy": 1013.95,
+    "id": 25,
+    "image": "img/receipe25.jpg",
+    "ingredients": [
+        {
+            "id": 76,
+            "quantity": 75,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 147,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 82,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 107,
+            "quantity": 40,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Faites chauffer l'huile de colza dans une grande casserole puis ajoutez les oignons.","Cuire à feu moyen jusqu'à tendreté.","Ajouter un peu d'eau si les oignons commencent à attraper.","Ajouter le céleri, le poireau, la pomme de terre et une noix de beurre.","Remuer jusqu'à ce qu'il soit fondu, puis couvrir avec un couvercle.","Laisser suer 5 minutes.","Retirez le couvercle.","Verser le bouillon et ajouter les gros morceaux de tige de brocoli.","Cuire 10 à 15 minutes jusqu'à ce que tous les légumes soient tendres.","Ajouter le reste des brocolis et cuire encore 5 minutes.","Transférer délicatement dans un mélangeur et mixer jusqu'à consistance lisse.","Incorporer le stilton en laissant quelques grumeaux.","Assaisonner de poivre noir et servir."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Broccoli",
+        "Soup",
+        " Cheese",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 77.83,
+    "name": "Soupe au brocoli",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 48.48,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT30M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "casserolle"
+    ],
+    "yield": "1 Personne"
+}

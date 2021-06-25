@@ -1,0 +1,93 @@
+{
+    "carbohydrate": 107.66,
+    "cookTime": "PT10M",
+    "description": "Thon Nicois",
+    "difficulty": 1,
+    "energy": 1663.22,
+    "id": 28,
+    "image": "img/receipe28.jpg",
+    "ingredients": [
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 107,
+            "quantity": 450,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 224,
+            "unit": "g"
+        },
+        {
+            "id": 134,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 158,
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "id": 35,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 3,
+            "quantity": 400,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Chauffer le four à 200C/ventilateur 180C/gaz 6.",
+        "Mélanger les pommes de terre avec 2 cuillères à café d'huile et un peu d'assaisonnement.",
+        "Verser sur une grande plaque à pâtisserie, puis rôtir pendant 20 minutes, en remuant à mi-cuisson, jusqu'à ce qu'elles soient croustillantes, dorées et cuites.",
+        "Pendant ce temps, mettez les œufs dans une petite casserole d'eau, portez à ébullition, puis laissez mijoter pendant 8 à 10 minutes, selon la façon dont vous les aimez cuits.",
+        "Plonger dans un bol d'eau froide pour laisser refroidir quelques minutes.",
+        "Épluchez les coquilles, puis coupez-les en deux.",
+        "Dans un grand saladier, fouetter ensemble le reste de l'huile, le vinaigre de vin rouge, les câpres et les tomates concassées.",
+        "Assaisonner, ajouter l'oignon, les épinards, le thon et les pommes de terre, puis mélanger délicatement.",
+        "Garnir avec les œufs, puis servir aussitôt."
+    ],
+    "is_egg": true,
+    "is_fish": true,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Thon",
+        "Nice",
+        " Nicois",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 55.01,
+    "name": "Thon Nicois",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 48.93,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "2 Personne"
+}

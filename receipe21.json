@@ -1,0 +1,107 @@
+{
+    "carbohydrate": "276.9",
+    "cookTime": "PT35M",
+    "description": "Beef Wellington",
+    "difficulty": 1,
+    "energy": 4100,
+    "id": 21,
+    "image": "img/receipe21.jpg",
+    "ingredients": [
+        {
+            "id": 164,
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "id": 142,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 29,
+            "quantity": 750,
+            "unit": "g"
+        },
+        {
+            "id": 143,
+            "quantity": 80,
+            "unit": "g"
+        },
+        {
+            "id": 123,
+            "quantity": 500,
+            "unit": "g"
+        },
+        {
+            "id": 120,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 56,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Mettre les champignons dans un robot culinaire avec un peu d'assaisonnement et réduire en une pâte grossière.",
+        "Grattez la pâte dans une casserole et faites cuire à feu vif pendant environ 10 minutes, en remuant fréquemment, pour faire cuire l'humidité des champignons.",
+        "Étaler sur une assiette pour refroidir.",
+        "Faites chauffer dans une poêle et ajoutez un peu d'huile d'olive.",
+        "Assaisonner le bœuf et le saisir dans la poêle chaude pendant 30 secondes seulement de chaque côté.",
+        "(Vous ne voulez pas le faire cuire à ce stade, il suffit de le colorer).",
+        "Retirer le bœuf de la poêle et laisser refroidir, puis badigeonner le tout avec la moutarde.",
+        "Déposer une feuille de film alimentaire sur un plan de travail et y disposer les tranches de jambon de Parme en rangs légèrement superposés.",
+        "À l'aide d'un couteau à palette, étaler la pâte de champignons sur le jambon, puis placer le filet de bœuf poêlé au milieu.",
+        "En maintenant fermement le film alimentaire du bord, enroulez soigneusement le jambon de Parme et les champignons autour du bœuf pour former un tonneau serré.",
+        "Tournez les extrémités du film alimentaire pour le fixer.",
+        "Réfrigérer pendant 15 à 20 minutes pour permettre au bœuf de prendre et de garder sa forme.",
+        "Sur un plan fariné, étalez la pâte feuilletée en un grand rectangle de l'épaisseur d'une pièce de 1€.",
+        "Retirez le film alimentaire de la viande de bœuf, puis déposez-la au centre.",
+        "Badigeonner la pâte qui l'entoure de jaune d'oeuf.",
+        "Repliez les extrémités, enroulez la pâte autour du bœuf en coupant l'excédent.",
+        "Retournez de façon à ce que la couture soit en dessous et placez sur une plaque à pâtisserie.",
+        "Badigeonner toute la pâte d'oeuf et réfrigérer environ 15 minutes pour laisser reposer la pâte.",
+        "Chauffer le four à 200C, 400F, gaz 6.",
+        "Entaillez légèrement la pâte à 1 cm d'intervalle et badigeonnez à nouveau de jaune d'œuf battu.",
+        "Cuire au four pendant 20 minutes, puis baisser le réglage du four à 180C, 350F, gaz 4 et cuire encore 15 minutes.",
+        "Laisser reposer 10 à 15 minutes avant de trancher et de servir avec les accompagnements de votre choix.",
+        "Le bœuf doit encore être rose au centre lorsque vous le servez."
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Boeuf",
+        "Wellington",
+        "english",
+        "Champignon",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 189.82,
+    "name": "Beef Wellington",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 307.01,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT55M",
+    "utensils": [
+        "assiette",
+        "four"
+    ],
+    "yield": "4 Personnes"
+}

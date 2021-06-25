@@ -1,0 +1,95 @@
+{
+    "carbohydrate": "251.08",
+    "cookTime": "PT20M",
+    "description": "Herring puttanesca",
+    "difficulty": 1,
+    "energy": 2317.84,
+    "id": 24,
+    "image": "img/receipe24.jpg",
+    "ingredients": [
+        {
+            "id": 128,
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 106,
+            "quantity": 18,
+            "unit": "g"
+        },
+        {
+            "id": 116,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 146,
+            "quantity": 425,
+            "unit": "g"
+        },
+        {
+            "id": 129,
+            "quantity": 70,
+            "unit": "g"
+        },
+        {
+            "id": 133,
+            "quantity": 50,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Cuire les pâtes en suivant les instructions du paquet.",
+        "Faites chauffer l'huile dans une poêle antiadhésive et faites cuire l'oignon, l'ail et le piment pendant 3-4 minutes pour les ramollir.",
+        "Incorporer la purée de tomates et cuire 1 min, puis ajouter les pilchards avec leur sauce.",
+        "Cuire en émiettant le poisson avec une cuillère en bois, puis ajouter les olives et poursuivre la cuisson encore quelques minutes.",
+        "Égoutter les pâtes et les ajouter dans la casserole avec 2-3 cuillères à soupe d'eau de cuisson.",
+        "Bien mélanger le tout, puis répartir dans les assiettes et servir, parsemé de parmesan."
+    ],
+    "is_egg": false,
+    "is_fish": true,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Hareng",
+        "Pate",
+        " epice",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 82,
+    "name": "herring puttanesca",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 135,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT30M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "Casserole"
+    ],
+    "yield": "1 Personne"
+}

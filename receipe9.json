@@ -1,0 +1,97 @@
+{
+    "carbohydrate": "225.46",
+    "cookTime": "PT60M",
+    "description": "Gratin au poulet",
+    "difficulty": 1,
+    "energy": 2394.1,
+    "id": 9,
+    "image": "img/receipe9.jpg",
+    "ingredients": [
+        {
+            "id": 107,
+            "quantity": 800,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 138,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 159,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 133,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 14,
+            "quantity": 450,
+            "unit": "g"
+        },
+        {
+            "id": 35,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 65,
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "15 minutes de gratin de pommes de terre au poulet et aux lardons : un gratin semble toujours plus exigeant et plus gourmand que les bouillies ou les rôtis ordinaires, mais cela ne prend pas nécessairement 45 minutes, c'est bien pour changer et vous pouvez contrôler la teneur en calories en allant avec crème fraîche entière à faible en gras.",
+        "(Evidemment c'est toujours meilleur plein de gras !) pour servir 4 : utilisez 800g de pommes de terre, tranchez finement et faites bouillir dans une casserole pendant environ 5-8 minutes jusqu'à ce qu'elles soient fermes, pas molles.",
+        "Trancher finement 3 oignons et les placer dans un plat allant au four avec 2 cuillères à soupe d'huile d'olive et 100 ml de bouillon de volaille.",
+        "Cuire jusqu'à ce que les oignons soient tendres puis égoutter les pommes de terre et verser sur les oignons.",
+        "Assaisonner et verser sur de la crème ou de la crème fraîche jusqu'à ce que tout soit couvert mais sans nage.",
+        "Râpez le parmesan sur le dessus puis terminez sous le grill jusqu'à ce qu'il soit bien doré.",
+        "servir avec du poulet et du bacon, des pois et des épinards."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Grattin",
+        "Fromage",
+        " Patates",
+        "Pommes de Terre",
+        "bon marché",
+        "Poulet"
+    ],
+    "lipid": 79.35,
+    "name": "Gratin au poulet",
+    "prepTime": "PT10M",
+    "price": 1,
+    "protein": 203.31,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT70M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol",
+        "Four"
+    ],
+    "yield": "4 Personne"
+}

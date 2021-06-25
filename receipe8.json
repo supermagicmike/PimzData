@@ -1,0 +1,105 @@
+{
+    "carbohydrate": "245.19",
+    "cookTime": "PT25M",
+    "description": "Tarte Chessy",
+    "difficulty": 1,
+    "energy": 3838.47,
+    "id": 8,
+    "image": "img/receipe8.jpg",
+    "ingredients": [
+        {
+            "id": 120,
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "id": 11,
+            "quantity": 125,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 224,
+            "unit": "g"
+        },
+        {
+            "id": 97,
+            "quantity": 2,
+            "unit": "g"
+        },
+        {
+            "id": 132,
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "id": 133,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 10,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 48,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 350,
+            "unit": "g"
+        },
+        {
+            "id": 81,
+            "quantity": 20,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Croûte : faites une pâte avec 250g de farine (j'aime mélanger différentes farines comme la farine d'épeautre nature et complète), 125g de beurre, 1 œuf et une pincée de sel, pressez-la en forme de tarte et placez-la au réfrigérateur.",
+        " Garniture : mélanger 300 g de fromage frais et 100 ml de lait jusqu'à consistance lisse, ajouter 3 œufs, 100 g de parmesan râpé et assaisonner avec du sel, du poivre et de la muscade. ",
+        " Sortir la croûte du réfrigérateur et piquer le fond avec une fourchette. ",
+        "Versez la garniture et enfournez à 175 degrés C pendant environ 25 minutes.",
+        "Couvrez la tarte de papier d'aluminium après la moitié du temps. ",
+        " Pendant ce temps, coupez environ 350 g de mini tomates. ",
+        " Dans un petite poêle faire chauffer 3 cuillères à soupe d'huile d'olive, 3 cuillères à soupe de vinaigre blanc, 1 cuillère à soupe de miel, sel et poivre et bien mélanger.",
+        "Verser sur les tranches de tomates et bien mélanger.",
+        "Avec une cuillère, placer les tranches de tomates sur la tarte, en évitant trop de liquide dessus.",
+        "Décorer avec des feuilles de basilic et déguster"
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Tarte",
+        "Cheesy",
+        " Fromage",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 247.38,
+    "name": "Tarte Cheesy",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 170.22,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT45M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol",
+        "four"
+    ],
+    "yield": "4 Personne"
+}

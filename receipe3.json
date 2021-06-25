@@ -1,0 +1,84 @@
+{
+    "carbohydrate": "",
+    "cookTime": "PT20M",
+    "description": "Assiete végétarienne complete",
+    "difficulty": 1,
+    "energy": 550,
+    "id": 3,
+    "image": "img/receipe3.png",
+    "ingredients": [
+        {
+            "id": 111,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 112,
+            "quantity": 120,
+            "unit": "g"
+        },
+        {
+            "id": 113,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 114,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 115,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 116,
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Commencer par laver tout les legumes , mettre à bouillir dans une casserolle de l'eau avec une pincée de sel",
+        "En attendant l'ébullition découper les légumes en dés puis faites les revenir sur une poelle avec un peu d'huile de cuisson pendant 15 min",
+        "Disposer sur une assiette ou un bol",
+        
+        "Assaissonez à votre guise"
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": true,
+    "is_vegetarian": true,
+    "keywords": [
+        "Assiette vegetarienne complete",
+        "veggie",
+        " salade mélangée",
+        " tomate",
+        " laitue",
+        " chevre",
+        " chaud",
+        " diet",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 19.57,
+    "name": "Assiette vegetarienne complete",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 20.33,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "planche à découper",
+        "couteau"
+    ],
+    "yield": "1 Personne"
+}

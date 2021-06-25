@@ -1,0 +1,75 @@
+{
+    "carbohydrate": "12.57",
+    "cookTime": "PT10M",
+    "description": "Honey Teriyaki Salmon",
+    "difficulty": 1,
+    "energy": 765.3,
+    "id": 5,
+    "image": "img/receipe5.jpg",
+    "ingredients": [
+        {
+            "id": 121,
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "id": 8,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 122,
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "id": 37,
+            "quantity": 40,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Mélanger tous les ingrédients du glaçage teriyaki au miel.",
+        "Fouetter pour bien mélanger.",
+        "Faire chauffer une poêle à feu moyen-doux.",
+        "Ajouter l'huile, Poêler le saumon des deux côtés jusqu'à ce qu'il soit complètement cuit à l'intérieur et que le glaçage s'épaississe.",
+        "Garnir de sésame et servir aussitôt."
+    ],
+    "is_egg": false,
+    "is_fish": true,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Saumon",
+        "Japon",
+        " Terryiaki",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 55.01,
+    "name": "Honey Teriyaki Salmon",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 48.93,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "bol"
+    ],
+    "yield": "1 Personne"
+}

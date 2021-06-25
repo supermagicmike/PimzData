@@ -1,0 +1,99 @@
+{
+    "carbohydrate": "56.32",
+    "cookTime": "PT15M",
+    "description": "Salmon Prawn Risotto",
+    "difficulty": 1,
+    "energy": 765.3,
+    "id": 15,
+    "image": "img/receipe15.jpg",
+    "ingredients": [
+        {
+            "id": 11,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 64,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 98,
+            "quantity": 125,
+            "unit": "g"
+        },
+        {
+            "id": 108,
+            "quantity": 20,
+            "unit": "g"
+        },
+        {
+            "id": 8,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 144,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 46,
+            "quantity": 2,
+            "unit": "g"
+        },
+        {
+            "id": 133,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 145,
+            "quantity": 240,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Faites fondre le beurre dans une poêle à fond épais et faites cuire doucement l'oignon sans couleur jusqu'à ce qu'il soit tendre.",
+        "Ajouter le riz et remuer pour enrober tous les grains de beurre Ajouter le vin et cuire doucement en remuant jusqu'à ce qu'il soit absorbé Ajouter progressivement le bouillon chaud, en remuant jusqu'à ce que chaque ajout soit absorbé.",
+        "Continuez à remuer jusqu'à ce que le riz soit tendre Assaisonner avec le jus et le zeste de citron et poivrer au goût.",
+        "(le saumon sera probablement suffisamment salé pour ne pas avoir besoin d'ajouter de sel) Remuer doucement pour réchauffer Servir parsemé de parmesan et de légumes de saison.",
+        "Griller le saumon et déposer délicatement sur le risotto avec les crevettes et les asperges"
+    ],
+    "is_egg": false,
+    "is_fish": true,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": true,
+    "keywords": [
+        "Saumon",
+        "shrimp",
+        " prawn",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 77.27,
+    "name": "Salmon Prawn Risotto",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 108.04,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT35M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "Casserole"
+    ],
+    "yield": "4 Personnes"
+}

@@ -1,0 +1,71 @@
+{
+    "carbohydrate": "210.29",
+    "cookTime": "PT45M",
+    "description": "Boeuf Roti pomme de terre",
+    "difficulty": 1,
+    "energy": 2103.32,
+    "id": 16,
+    "image": "img/receipe16.jpg",
+    "ingredients": [
+        {
+            "id": 29,
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "id": 27,
+            "quantity": 250,
+            "unit": "g"
+        },
+        {
+            "id": 107,
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "id": 15,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 120,
+            "quantity": 140,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Cuire le brocoli et les carottes dans une casserole d'eau bouillante jusqu'à ce qu'ils soient tendres.","Rôtir le bœuf et les pommes de terre au four pendant 45 minutes, les pommes de terre devront peut-être être vérifiées régulièrement pour ne pas trop cuire.","Pour faire les Yorkshire puddings : Chauffer le four à 230C/ventilation 210C/gaz 8.","Verser un peu d'huile de tournesol uniformément dans 2 moules à pudding Yorkshire 4 trous ou un moule à muffins antiadhésif 12 trous et mettre au four pour bien chauffer Pour faire la pâte, verser 140 g de farine dans un bol et battre quatre œufs jusqu'à consistance lisse.","Ajouter progressivement 200 ml de lait et continuer à battre jusqu'à ce que le mélange soit complètement sans grumeaux.","Assaisonnez avec du sel et du poivre.","Versez la pâte dans un bol, puis sortez les moules chauds du four.","Versez soigneusement et uniformément la pâte dans les trous.","Remettez les moules au four et laissez reposer pendant 20 à 25 minutes jusqu'à ce que les puddings soient gonflés et dorés.","Sers immédiatement.","Dresser et ajouter la sauce au goût."
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Boeuf",
+        "Roti",
+        " France",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 55.01,
+    "name": "Boeuf Roti Pommes de terre",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 48.93,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT65M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "Four"
+    ],
+    "yield": "1 Personne"
+}

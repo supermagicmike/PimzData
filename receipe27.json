@@ -1,0 +1,101 @@
+{
+    "carbohydrate": 527.36,
+    "cookTime": "PT40M",
+    "description": "chicken couscous",
+    "difficulty": 1,
+    "energy": 2695.85,
+    "id": 27,
+    "image": "img/receipe27.jpg",
+    "ingredients": [
+        {
+            "id": 76,
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 14,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 105,
+            "quantity": 10,
+            "unit": "g"
+        },
+        {
+            "id": 116,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 73,
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "id": 40,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 151,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 138,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 157,
+            "quantity": 25,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Faites chauffer l'huile d'olive dans une grande poêle et faites cuire l'oignon pendant 1 à 2 minutes jusqu'à ce qu'il ramollisse.",
+        "Ajouter le poulet et faire frire pendant 7 à 10 minutes jusqu'à ce qu'il soit bien cuit et que les oignons soient dorés.",
+        "Râpez le gingembre, mélangez à la harissa pour enrober le tout et laissez cuire encore 1 min.",
+        "Ajouter les abricots, les pois chiches et le couscous, puis verser sur le bouillon et remuer une fois.",
+        "Couvrir avec un couvercle ou bien couvrir la casserole de papier d'aluminium et laisser reposer environ 5 minutes jusqu'à ce que le couscous ait absorbé tout le bouillon et soit ramolli.",
+        "A l'aide d'une fourchette, égrainez le couscous et parsemez de coriandre pour servir.",
+        "Servir avec de la harissa supplémentaire, si vous le souhaitez."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": true,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Couscous",
+        "Poulet",
+        " Terryiaki",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 30.76,
+    "name": "Coucous Poulet",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 110.43,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT60M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "Couscousiere"
+    ],
+    "yield": "4 Personne"
+}

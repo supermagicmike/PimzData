@@ -1,0 +1,113 @@
+{
+    "carbohydrate": "19.52",
+    "cookTime": "PT60M",
+    "description": "Honey Teriyaki Salmon",
+    "difficulty": 1,
+    "energy": 1645.38,
+    "id": 20,
+    "image": "img/receipe20.jpg",
+    "ingredients": [
+        {
+            "id": 14,
+            "quantity": 800,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 98,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 138,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 77,
+            "quantity": 5,
+            "unit": "g"
+        },
+        {
+            "id": 51,
+            "quantity": 3,
+            "unit": "g"
+        },
+        {
+            "id": 78,
+            "quantity": 30,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 50,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Faites chauffer 1 cuillère à soupe d'huile dans une grande casserole à fond épais ou un plat antidéflagrant.",
+        "Verser le bacon et faire frire jusqu'à ce qu'il soit croustillant.",
+        "Retirer et égoutter sur du papier absorbant.",
+        "Ajouter les échalotes dans la poêle et faire frire, en remuant ou en secouant souvent la poêle, pendant 5 à 8 minutes jusqu'à ce qu'elles soient bien dorées.",
+        "Retirer et réserver avec le bacon.",
+        "Séchez les morceaux de poulet avec du papier absorbant.",
+        "Versez le reste d'huile dans la poêle, puis faites frire la moitié des morceaux de poulet, en les retournant régulièrement, pendant 5 à 8 minutes jusqu'à ce qu'ils soient bien dorés.",
+        "Retirer, puis répéter avec le poulet restant.",
+        "Retirer et mettre de côté.",
+        "Parsemez d'ail et faites revenir brièvement, puis, à feu moyen-vif, versez le cognac ou le cognac en remuant le fond de la casserole pour déglacer.",
+        "L'alcool doit grésiller et commencer à s'évaporer pour qu'il ne reste plus grand-chose.",
+        "Remettez les cuisses et les cuisses de poulet dans la poêle avec les jus éventuels, puis versez un peu de vin en remuant à nouveau le fond de la poêle.",
+        "Incorporer le reste de vin, le bouillon et la purée de tomates, déposer le bouquet garni, assaisonner de poivre et une pincée de sel, puis remettre les lardons et les échalotes dans la poêle.",
+        "Couvrir, baisser le feu pour laisser mijoter doucement, ajouter les poitrines de poulet et cuire pendant 50 min-1h.",
+        "Juste avant de servir, faites chauffer l'huile des champignons dans une grande poêle antiadhésive.",
+        "Ajouter les champignons et faire revenir à feu vif pendant quelques minutes jusqu'à ce qu'ils soient dorés.",
+        "Retirer et garder au chaud.",
+        "Retirez le poulet, les échalotes et le bacon de la poêle et transférez-les dans un plat de service réchauffé.",
+        "Retirez le bouquet garni.",
+        "Pour faire l'épaississant, mélanger la farine, l'huile d'olive et le beurre dans un petit bol en utilisant le dos d'une cuillère à café.",
+        "Porter le mélange de vin à ébullition douce, puis déposer progressivement de petits morceaux d'épaississant, en fouettant chaque morceau à l'aide d'un fouet métallique.",
+        "Laisser mijoter 1 à 2 minutes.",
+        "Répartir les champignons sur le poulet, puis verser sur la sauce au vin.",
+        "Garnir de persil haché."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Coq au vin",
+        "France",
+        " Terrpor",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 42.73,
+    "name": "Coq Au Vin",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 261.7,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT80M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "four"
+    ],
+    "yield": "4 Personne"
+}

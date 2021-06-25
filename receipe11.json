@@ -1,0 +1,146 @@
+{
+    "carbohydrate": "32.03",
+    "cookTime": "PT15M",
+    "description": "Baingan Bharta",
+    "difficulty": 1,
+    "energy": 291.93,
+    "id": 11,
+    "image": "img/receipe11.jpg",
+    "ingredients": [
+        {
+            "id": 139,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 55,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 106,
+            "quantity": 36,
+            "unit": "g"
+        },
+        {
+            "id": 116,
+            "quantity": 40,
+            "unit": "g"
+        },
+        {
+            "id": 113,
+            "quantity": 25,
+            "unit": "g"
+        },
+        {
+            "id": 157,
+            "quantity": 25,
+            "unit": "g"
+        },
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 97,
+            "quantity": 2,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Rincer le baingan (aubergine ou aubergine) à l'eau.",
+        "Séchez avec une serviette de cuisine.",
+        "Appliquez un peu d'huile partout et gardez-la pour la torréfaction sur une flamme nue.",
+        "Vous pouvez également griller le baingan ou rôtir au four.",
+        "Mais alors vous n'obtiendrez pas la saveur fumée du baingan.",
+        "Gardez l'aubergine en tournant après 2 à 3 minutes sur le feu, pour qu'elle soit uniformément cuite.",
+        "Vous pouvez également incorporer des gousses d'ail dans le baingan puis le faire rôtir.",
+        "2.",
+        "Rôtir l'aubergine jusqu'à ce qu'elle soit complètement cuite et tendre.",
+        "Avec un couteau vérifier la cuisson.",
+        "Le couteau doit glisser facilement dans les aubergines sans aucune résistance.",
+        "Retirez le baingan et plongez-le dans un bol d'eau jusqu'à ce qu'il refroidisse.",
+        "3.",
+        "Vous pouvez également faire la technique du dhungar consistant à infuser une saveur fumée de charbon de bois dans le baingan.",
+        "Ceci est une étape optionnelle.",
+        "Utilisez du charbon de bois naturel pour cette méthode.",
+        "Faites chauffer un petit morceau de charbon de bois sur la flamme jusqu'à ce qu'il devienne chaud et rouge fumant.",
+        "4.",
+        "Faire de petites entailles sur le baingan avec un couteau.",
+        "Placer le charbon de bois rouge dans la même assiette où l'aubergine rôtie est conservée.",
+        "Ajouter quelques gouttes d'huile sur le charbon de bois.",
+        "Le charbon de bois commencerait à fumer.",
+        "5.",
+        "Dès que la fumée commence à se dégager du charbon de bois, couvrez toute la plaque hermétiquement avec un grand bol.",
+        "Laissez infuser la fumée de charbon de bois pendant 1 à 2 minutes.",
+        "Plus vous en faites, plus le baingan bharta deviendra enfumé.",
+        "Je garde juste une minute.",
+        "Alternativement, vous pouvez également faire cette méthode dhungar une fois que le baingan bharta est cuit, tout comme nous le faisons pour Dal Tadka.",
+        "6.",
+        "Peler la peau des aubergines grillées et fumées.",
+        "7.",
+        "Hachez finement l'aubergine cuite ou vous pouvez même l'écraser.",
+        "8.",
+        "Dans un kadai ou une poêle, faire chauffer l'huile.",
+        "Ajouter ensuite les oignons et l'ail finement hachés.",
+        "9.",
+        "Faire revenir les oignons jusqu'à ce qu'ils soient translucides.",
+        "Ne les faites pas brunir.",
+        "dix.",
+        "Ajouter les piments verts hachés et faire sauter pendant une minute.",
+        "11.",
+        "Ajouter les tomates concassées et bien mélanger.",
+        "12.",
+        "Bhuno (sauter) les tomates jusqu'à ce que l'huile commence à se séparer du mélange.",
+        "13.",
+        "Ajoutez maintenant la poudre de piment rouge.",
+        "Remuer et bien mélanger.",
+        "14.",
+        "Ajouter le baingan cuit haché.",
+        "15.",
+        "Remuez et mélangez très bien le baingan haché avec le mélange oignon-tomate masala.",
+        "16.",
+        "Assaisonnez avec du sel.",
+        "Remuer et faire revenir encore 4 à 5 minutes de plus.",
+        "17.",
+        "Incorporer enfin les feuilles de coriandre au baingan bharta ou garnir avec.",
+        "Servez le Baingan Bharta avec des phulkas, des rotis ou des chapatis.",
+        "Il se marie bien même avec du pain, du pain grillé ou grillé et du riz nature ou du riz jeera."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": false,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": true,
+    "is_vegetarian": true,
+    "keywords": [
+        "ratatouille",
+        "epice",
+        " Baingan Bharta",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 16.51,
+    "name": "Baingan Bharta",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 291.93,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT35M",
+    "utensils": [
+        "assiette",
+        "poelle"
+    ],
+    "yield": "2 Personne"
+}

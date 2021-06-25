@@ -1,0 +1,69 @@
+{
+    "carbohydrate": "87.83",
+    "cookTime": "PT20M",
+    "description": "Poutine Boeuf",
+    "difficulty": 1,
+    "energy": 1146.6,
+    "id": 10,
+    "image": "img/receipe10.jpg",
+    "ingredients": [
+        {
+            "id": 76,
+            "quantity": 15,
+            "unit": "g"
+        },
+        {
+            "id": 29,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 107,
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "id": 132,
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "instructions": [
+        "Chauffer l'huile dans une friteuse ou une poêle profonde à 185 °C (365 °F).",
+        "Placer les frites dans l'huile chaude et cuire jusqu'à ce qu'elles soient légèrement dorées, environ 5 minutes.",
+        "Retirer sur une assiette tapissée d'essuie-tout pour égoutter.",
+        "Placer les frites sur un plat de service et saupoudrer de fromage dessus.",
+        "Verser la sauce sur les frites et le fromage et servir immédiatement."
+    ],
+    "is_egg": false,
+    "is_fish": false,
+    "is_gluten": false,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Poutine",
+        "Boeuf",
+        " Canada",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 55.01,
+    "name": "Poutine Boeuf",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 79.35,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "Friteuse",
+        "poelle"
+    ],
+    "yield": "1 Personne"
+}

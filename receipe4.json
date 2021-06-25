@@ -1,0 +1,90 @@
+{
+    "carbohydrate": "111.51",
+    "cookTime": "PT20M",
+    "description": "RotiJohn",
+    "difficulty": 1,
+    "energy": 1084.4,
+    "id": 4,
+    "image": "img/receipe4.jpg",
+    "ingredients": [
+        {
+            "id": 57,
+            "quantity": 50,
+            "unit": "g"
+        },
+        {
+            "id": 0,
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "id": 13,
+            "quantity": 168,
+            "unit": "g"
+        },
+        {
+            "id": 23,
+            "quantity": 200,
+            "unit": "g"
+        },
+        {
+            "id": 97,
+            "quantity": 2,
+            "unit": "g"
+        },
+        {
+            "id": 113,
+            "quantity": 100,
+            "unit": "g"
+        },
+        {
+            "id": 46,
+            "quantity": 10,
+            "unit": "g"
+        }
+
+    ],
+    "instructions": [
+        "Mélanger tout les ingrédients dans un bol",
+        "Mettre à chauffer la poelle ou le grill avec de l'huile végétale",
+        "mettre le melange sur la poelle et déposer une moitiée de baguettre dessus",
+        "retourner la baguette sur la poelle afin de la rendre croustillante",
+        "Assaisonez à votre guise en général de la mayonnaise accompagne bien le roti John"
+        
+    ],
+    "is_egg": true,
+    "is_fish": false,
+    "is_gluten": true,
+    "is_lactose": true,
+    "is_nuts": false,
+    "is_pork": false,
+    "is_prog": false,
+    "is_vegan": false,
+    "is_vegetarian": false,
+    "keywords": [
+        "Roti John",
+        "Boeuf",
+        " Sandwich au Boeuf",
+        " Oeuf",
+        " Oignon",
+        " chaud",
+        " diet",
+        "très facile",
+        "bon marché",
+        "rapide"
+    ],
+    "lipid": 31.9,
+    "name": "Roti John",
+    "prepTime": "PT20M",
+    "price": 1,
+    "protein": 89.99,
+    "rating": -1,
+    "reviews": -1,
+    "totalTime": "PT20M",
+    "utensils": [
+        "assiette",
+        "poelle",
+        "couteau"
+    ],
+    "yield": "1 Personne"
+}
